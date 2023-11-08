@@ -1,0 +1,17 @@
+T:\1DS\EDUARDO BORGES E ERIC\Exercícios TPA\Projeto Looping - Eduardo Borges e Eric\Projeto Looping - Eduardo Borges e Eric\bin\Debug\Projeto Looping - Eduardo Borges e Eric.exe.config
+T:\1DS\EDUARDO BORGES E ERIC\Exercícios TPA\Projeto Looping - Eduardo Borges e Eric\Projeto Looping - Eduardo Borges e Eric\bin\Debug\Projeto Looping - Eduardo Borges e Eric.exe
+T:\1DS\EDUARDO BORGES E ERIC\Exercícios TPA\Projeto Looping - Eduardo Borges e Eric\Projeto Looping - Eduardo Borges e Eric\bin\Debug\Projeto Looping - Eduardo Borges e Eric.pdb
+T:\1DS\EDUARDO BORGES E ERIC\Exercícios TPA\Projeto Looping - Eduardo Borges e Eric\Projeto Looping - Eduardo Borges e Eric\obj\Debug\Projeto Looping - Eduardo Borges e Eric.csproj.AssemblyReference.cache
+T:\1DS\EDUARDO BORGES E ERIC\Exercícios TPA\Projeto Looping - Eduardo Borges e Eric\Projeto Looping - Eduardo Borges e Eric\obj\Debug\Projeto_Looping___Eduardo_Borges_e_Eric.Form1.resources
+T:\1DS\EDUARDO BORGES E ERIC\Exercícios TPA\Projeto Looping - Eduardo Borges e Eric\Projeto Looping - Eduardo Borges e Eric\obj\Debug\Projeto_Looping___Eduardo_Borges_e_Eric.Form2.resources
+T:\1DS\EDUARDO BORGES E ERIC\Exercícios TPA\Projeto Looping - Eduardo Borges e Eric\Projeto Looping - Eduardo Borges e Eric\obj\Debug\Projeto_Looping___Eduardo_Borges_e_Eric.Properties.Resources.resources
+T:\1DS\EDUARDO BORGES E ERIC\Exercícios TPA\Projeto Looping - Eduardo Borges e Eric\Projeto Looping - Eduardo Borges e Eric\obj\Debug\Projeto Looping - Eduardo Borges e Eric.csproj.GenerateResource.cache
+T:\1DS\EDUARDO BORGES E ERIC\Exercícios TPA\Projeto Looping - Eduardo Borges e Eric\Projeto Looping - Eduardo Borges e Eric\obj\Debug\Projeto Looping - Eduardo Borges e Eric.csproj.CoreCompileInputs.cache
+T:\1DS\EDUARDO BORGES E ERIC\Exercícios TPA\Projeto Looping - Eduardo Borges e Eric\Projeto Looping - Eduardo Borges e Eric\obj\Debug\Projeto Looping - Eduardo Borges e Eric.exe
+T:\1DS\EDUARDO BORGES E ERIC\Exercícios TPA\Projeto Looping - Eduardo Borges e Eric\Projeto Looping - Eduardo Borges e Eric\obj\Debug\Projeto Looping - Eduardo Borges e Eric.pdb
+T:\1DS\EDUARDO BORGES E ERIC\Exercícios TPA\Projeto Looping - Eduardo Borges e Eric\Projeto Looping - Eduardo Borges e Eric\obj\Debug\Projeto_Looping___Eduardo_Borges_e_Eric.Form3.resources
+T:\1DS\EDUARDO BORGES E ERIC\Exercícios TPA\Projeto Looping - Eduardo Borges e Eric\Projeto Looping - Eduardo Borges e Eric\obj\Debug\Projeto_Looping___Eduardo_Borges_e_Eric.Form4.resources
+T:\1DS\EDUARDO BORGES E ERIC\Exercícios TPA\Projeto Looping - Eduardo Borges e Eric\Projeto Looping - Eduardo Borges e Eric\obj\Debug\Projeto_Looping___Eduardo_Borges_e_Eric.Form5.resources
+T:\1DS\EDUARDO BORGES E ERIC\Exercícios TPA\Projeto Looping - Eduardo Borges e Eric\Projeto Looping - Eduardo Borges e Eric\obj\Debug\Projeto_Looping___Eduardo_Borges_e_Eric.Form6.resources
+T:\1DS\EDUARDO BORGES E ERIC\Exercícios TPA\Projeto Looping - Eduardo Borges e Eric\Projeto Looping - Eduardo Borges e Eric\obj\Debug\Projeto_Looping___Eduardo_Borges_e_Eric.Form7.resources
+T:\1DS\EDUARDO BORGES E ERIC\Exercícios TPA\Projeto Looping - Eduardo Borges e Eric\Projeto Looping - Eduardo Borges e Eric\obj\Debug\Projeto_Looping___Eduardo_Borges_e_Eric.Form8.resources
